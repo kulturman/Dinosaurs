@@ -13,15 +13,16 @@ formElement.addEventListener('submit', e => {
     
     const human = new LivingBeing(
         'human', nameElement.value, weightElement.valueAsNumber,
-        inchesElement.valueAsNumber, dietElement, 'Africa',
-        '', ['']
+        inchesElement.valueAsNumber, dietElement, 'Probably first in Africa',
+        'Prehistory', ['']
     );
 
     fetch('./dino.json')
         .then(response => response.json())
         .then(({ Dinos: dinos }) => {
             const livingBeings = dinos.map(dino => new LivingBeing(
-                dino.species, dino.name, dino.weight,
+                //We use species name as name
+                dino.species, dino.species, dino.weight,
                 dino.height, dino.diet, dino.where,
                 dino.when, dino.facts
             ));
