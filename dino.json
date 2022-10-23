@@ -7,7 +7,11 @@
             "diet": "herbavor",
             "where": "North America",
             "when": "Late Cretaceous",
-            "fact": "First discovered in 1889 by Othniel Charles Marsh"
+            "facts": [
+                "First discovered in 1889 by Othniel Charles Marsh",
+                "Triceratops is a famous extinct genus of herbivorous dinosaurs of the Ceratopsidae family",
+                "Many remains of the genus Triceratops have been collected since its discovery in 1889"
+            ]
         },
         {
             "species": "Tyrannosaurus Rex",
@@ -16,7 +20,11 @@
             "diet": "carnivor",
             "where": "North America",
             "when": "Late Cretaceous",
-            "fact": "The largest known skull measures in at 5 feet long."
+            "facts": [
+                "The largest known skull measures in at 5 feet long.",
+                "The Tyrannosaurus-rex or T-rex was a super-predator dinosaur at the top of the food chain",
+                "Tyrannosaurus was a bipedal carnivore with a massive skull balanced by a long powerful tail"
+            ]
         },
         {
             "species": "Anklyosaurus",
@@ -25,7 +33,10 @@
             "diet": "herbavor",
             "where": "North America",
             "when": "Late Cretaceous",
-            "fact": "Anklyosaurus survived for approximately 135 million years."
+            "facts": [
+                "Anklyosaurus survived for approximately 135 million years.",
+                "A genus of armored dinosaur"
+            ]
         },
         {
             "species": "Brachiosaurus",
@@ -34,7 +45,11 @@
             "diet": "herbavor",
             "where": "North America",
             "when": "Late Jurasic",
-            "fact": "An asteroid was named 9954 Brachiosaurus in 1991."
+            "facts": [
+                "An asteroid was named 9954 Brachiosaurus in 1991.",
+                "This herbivore with a long neck could reach 25 meters long",
+                "About fifty fossils are known, found in North America, Africa and Portugal."
+            ]
         },
         {
             "species": "Stegosaurus",
@@ -43,7 +58,10 @@
             "diet": "herbavor",
             "where": "North America, Europe, Asia",
             "when": "Late Jurasic to Early Cretaceous",
-            "fact": "The Stegosaurus had between 17 and 22 seperate places and flat spines."
+            "facts": [
+                "The Stegosaurus had between 17 and 22 seperate places and flat spines.",
+                "Its fossils have been found mainly in North America, in the states of Wyoming, Utah and especially Colorado"
+            ]
         },
         {
             "species": "Elasmosaurus",
@@ -52,7 +70,10 @@
             "diet": "carnivor",
             "where": "North America",
             "when": "Late Cretaceous",
-            "fact": "Elasmosaurus was a marine reptile first discovered in Kansas."
+            "facts": [
+                "Elasmosaurus was a marine reptile first discovered in Kansas.",
+                "Measuring 10.3 meters long, the elasmosaurus would have had a streamlined body with paddle-shaped limbs"
+            ]
         },
         {
             "species": "Pteranodon",
@@ -61,7 +82,11 @@
             "diet": "carnivor",
             "where": "North America",
             "when": "Late Cretaceous",
-            "fact": "Actually a flying reptile, the Pteranodon is not a dinosaur."
+            "facts": [
+                "Actually a flying reptile, the Pteranodon is not a dinosaur.",
+                "Pteranodon was 7 meters long and weighed 25 kilos",
+                "The pteranodon is easily recognized by the long, thin crest above its skull."
+            ]
         },
         {
             "species": "Pigeon",
@@ -70,7 +95,9 @@
             "diet": "herbavor",
             "where": "World Wide",
             "when": "Holocene",
-            "fact": "All birds are living dinosaurs."
+            "facts": [
+                "All birds are living dinosaurs."
+            ]
         }
     ]
 }
