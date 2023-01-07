@@ -47,7 +47,7 @@ TileManager.prototype.shuffleTiles = function shuffleTiles() {
         [this.tiles[i], this.tiles[j]] = [this.tiles[j], this.tiles[i]];
     }
 
-    //index have probably changed, we need to recompute it, did not find another solution
+    //index has probably changed, we need to recompute it, did not find another solution
     humanIndex = this.tiles.findIndex(livingBeing => livingBeing.species === 'human');
 
     if (humanIndex >= 0) {
